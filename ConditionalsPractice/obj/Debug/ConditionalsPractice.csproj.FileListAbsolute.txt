@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\ConditionalsPractice\ConditionalsPractice\bin\Debug\ConditionalsPractice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConditionalsPractice\ConditionalsPractice\obj\Debug\ConditionalsPractice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConditionalsPractice\ConditionalsPractice\bin\Debug\ConditionalsPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConditionalsPractice\ConditionalsPractice\bin\Debug\ConditionalsPractice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConditionalsPractice\ConditionalsPractice\obj\Debug\ConditionalsPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConditionalsPractice\ConditionalsPractice\obj\Debug\ConditionalsPractice.pdb
